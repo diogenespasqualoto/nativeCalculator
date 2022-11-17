@@ -2,6 +2,7 @@ import { useState } from "react";
 import { SafeAreaView, StyleSheet, Switch, Text } from "react-native";
 import { myColors } from "./src/styles/Colors";
 import { ThemeContext } from "./src/context/ThemeContext";
+import MyKeyboard from "./src/components/MyKeyboard";
 // import MyKeyboard from "./src/components/MyKeyboard";
 
 export default function App() {
@@ -19,12 +20,7 @@ export default function App() {
           value={theme === "dark"}
           onValueChange={() => setTheme(theme === "light" ? "dark" : "light")}
         />
-        <button
-          title="3"
-          onPress={() => {
-            alert("hello");
-          }}
-        />
+        <MyKeyboard />
       </SafeAreaView>
     </ThemeContext.Provider>
   );
