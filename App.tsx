@@ -19,7 +19,12 @@ export default function App() {
           value={theme === "dark"}
           onValueChange={() => setTheme(theme === "light" ? "dark" : "light")}
         />
-        // <MyKeyboard />
+        <button
+          title="3"
+          onPress={() => {
+            alert("hello");
+          }}
+        />
       </SafeAreaView>
     </ThemeContext.Provider>
   );
