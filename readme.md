@@ -24,7 +24,7 @@
 <br>
 
 >
-> npm intall
+> npm install
 > 
 > yarn install
 >
