@@ -59,8 +59,6 @@
 
 <br>
 
-## A Calculadora Nat é um aplicativo de calculadora simples e minimalista, com uma interface amigável e fácil de usar. O aplicativo foi desenvolvido usando HTML, CSS, Babel, JavaScript, Expo e TSX. 
-
-<br>
+## A Calculadora Nativa é um aplicativo de calculadora simples e minimalista, com temas escuro e claro, com uma interface amigável e fácil de usar. O aplicativo foi desenvolvido usando HTML, CSS, Babel, JavaScript, Expo e TSX. 
 
 ## O objetivo do aplicativo é fornecer uma solução simples e elegante para cálculos básicos, com uma interface que pode ser facilmente adaptada e estilizada para atender às necessidades do usuário.
