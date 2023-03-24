@@ -1,6 +1,6 @@
 # Calculadora Nativa
 
-### native calculator is a simple and minimalist calculator app built with HTML, CSS, Babel, JavaScript, Expo and TSX.
+### A calculadora nativa é um aplicativo de calculadora simples e minimalista construído com HTML, CSS, Babel, JavaScript, Expo e TSX.
 <br>
 
 ## Instalação
