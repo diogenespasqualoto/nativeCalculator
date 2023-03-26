@@ -35,6 +35,10 @@
 
 <br>
 
+1. Caso não tenha o expo, instale-o com esse guia
+
+> https://docs.expo.dev/get-started/installation/
+
 >
 > expo start
 >
